@@ -6,7 +6,7 @@
 
 Full-Stack focused in Javascript | Node.Js | React.Js | Software engineer :robot:
 
-I like building stuff and solving peoples problems :heart:
+I like building stuff and solving peoples problems 🔧
 
 
 
