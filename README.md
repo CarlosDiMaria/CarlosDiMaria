@@ -4,7 +4,7 @@
 # Welcome!
 ## I'm Carlos! Let me present a little about myself :D
 
-Full-Stack focused in Javascript | Node.Js | React.Js | Software engineer :robot:
+Software engineer focused in Javascript | Typescript | Node.Js | React.Js :robot:
 
 I like building stuff and solving peoples problems 🔧
 
